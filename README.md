@@ -10,5 +10,5 @@
 
 1) Build a new binary tree and print breath first with the following array:
 - ```[1, [[2, [[3, [null, null]], [4, [null, null]]]], [5, [[6, [null, null]], [7, [null, null]]]]]]```
-- - It should print out in this order: ```1, 2, 5, 3, 4, 6, 7```
+- It should print out in this order: ```1, 2, 5, 3, 4, 6, 7```
 ![BreathFirst2](image-2.png)
